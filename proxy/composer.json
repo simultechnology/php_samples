@@ -1,0 +1,6 @@
+{
+    "name": "t_ishikawa/php_samples",
+    "require": {
+        "proj4php/proj4php": "^2.0"
+    }
+}
